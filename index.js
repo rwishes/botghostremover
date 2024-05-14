@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [];
+const statusMessages = [Watching, Premiere];
 
 
 let currentIndex = 0;
